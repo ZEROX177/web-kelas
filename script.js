@@ -6,7 +6,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     const errorMessage = document.getElementById('error-message');
 
     // Cek username dan password (ini hanya contoh, seharusnya dilakukan dengan backend)
-    if (username === 'zerox santana' && password === 'telestia') {
+    if (username === 'x4' && password === 'x4') {
         // Jika login berhasil, arahkan ke halaman berikutnya
         window.location.href = 'home.html'; // Ganti dengan halaman tujuan
     } else {
